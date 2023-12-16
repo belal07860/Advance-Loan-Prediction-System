@@ -1,0 +1,19 @@
+SVM over Logistic Regression
+For the kernel space, SVM is faster
+Logistic sirf classification karta hai jabki svm classfication aur regression dono ue karta hai taki future me agar hume kisi ko kitna limit of loan amount de sakte hai|
+The risk of overfitting is less in SVM.
+
+SVM over Decision Tree
+Cross Validation show less accuracy (87 to 75)
+Highly time consuming in traing phase due to multiple independance variable
+Unstable due to high variance and if data will slightly change dramatically prediction produced by thr model
+
+SVM over ANN
+ye pehli baar me hi classify kar deta hai hyperplane ke through jabki ann nahi kar pata hai jisse error aa sakti hai consists of longer training time for neural networks
+Training time fast hota hai
+svm have better generalization capability than ann
+
+svm over random forest
+random froest give probability of belonging class jabki SVM gives distance to the boundary
+svm works faster
+neural network require large number of input data as compared to svm for training
